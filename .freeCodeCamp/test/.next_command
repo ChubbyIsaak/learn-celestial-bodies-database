@@ -63,3 +63,4 @@ ls --color=auto
 git add universe.sql
 git commit -m "Se empezo el proyecto de Celestial Bodies on PostgreSQL"
 git push
+git commit -m "Se empezo el proyecto de Celestial Bodies on PostgreSQL"
